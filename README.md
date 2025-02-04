@@ -10,7 +10,7 @@ Let’s build something amazing together! 💻✨
 
 <hr>
 
-## 🇫🇷 Salut, je suis Stocki 👋
+## 🇫🇷 Salut, moi c'est Stocki 👋
 
 Je suis un développeur freelance dynamique avec une passion pour créer des applications web de premier ordre.
 
